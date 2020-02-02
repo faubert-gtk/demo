@@ -6,7 +6,17 @@ commit2
 Stirng3
 string4
 ====================
+<<<<<<< HEAD
 commit4
 string7
 string8
+=======
+commit3
+Stirng5
+string6
+====================
+commit5
+Stirng11
+string21
+>>>>>>> sokolov
 ====================
