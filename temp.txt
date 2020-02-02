@@ -6,3 +6,7 @@ commit2
 Stirng3
 string4
 ====================
+commit4
+string7
+string8
+====================
