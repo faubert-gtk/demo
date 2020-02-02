@@ -1,0 +1,4 @@
+commit1
+Stirng1
+string2
+====================
